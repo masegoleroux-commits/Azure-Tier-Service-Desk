@@ -1,0 +1,1 @@
+My second monitor isn't detected when I dock my laptop.

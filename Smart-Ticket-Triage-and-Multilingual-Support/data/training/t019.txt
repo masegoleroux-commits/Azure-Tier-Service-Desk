@@ -1,0 +1,1 @@
+Outlook search doesn't find any emails older than a week.

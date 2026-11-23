@@ -1,0 +1,1 @@
+Remote desktop to the server says it can't find the computer.

@@ -1,0 +1,517 @@
+{
+  "projectFileVersion": "2022-05-01",
+  "stringIndexType": "Utf16CodeUnit",
+  "metadata": {
+    "projectKind": "CustomSingleLabelClassification",
+    "storageInputContainerName": "ticket-triage",
+    "projectName": "ticket-triage",
+    "multilingual": false,
+    "description": "Synthetic service desk tickets labelled by category",
+    "language": "en-us"
+  },
+  "assets": {
+    "projectKind": "CustomSingleLabelClassification",
+    "classes": [
+      {
+        "category": "Password"
+      },
+      {
+        "category": "Email"
+      },
+      {
+        "category": "Hardware"
+      },
+      {
+        "category": "Network"
+      },
+      {
+        "category": "Access"
+      },
+      {
+        "category": "Software"
+      }
+    ],
+    "documents": [
+      {
+        "location": "t001.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Password"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t002.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Password"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t003.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Password"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t004.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Password"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t005.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Password"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t006.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Password"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t007.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Password"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t008.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Password"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t009.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Password"
+        },
+        "dataset": "Test"
+      },
+      {
+        "location": "t010.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Password"
+        },
+        "dataset": "Test"
+      },
+      {
+        "location": "t011.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Email"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t012.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Email"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t013.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Email"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t014.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Email"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t015.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Email"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t016.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Email"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t017.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Email"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t018.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Email"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t019.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Email"
+        },
+        "dataset": "Test"
+      },
+      {
+        "location": "t020.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Email"
+        },
+        "dataset": "Test"
+      },
+      {
+        "location": "t021.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Hardware"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t022.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Hardware"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t023.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Hardware"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t024.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Hardware"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t025.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Hardware"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t026.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Hardware"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t027.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Hardware"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t028.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Hardware"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t029.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Hardware"
+        },
+        "dataset": "Test"
+      },
+      {
+        "location": "t030.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Hardware"
+        },
+        "dataset": "Test"
+      },
+      {
+        "location": "t031.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Network"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t032.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Network"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t033.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Network"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t034.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Network"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t035.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Network"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t036.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Network"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t037.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Network"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t038.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Network"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t039.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Network"
+        },
+        "dataset": "Test"
+      },
+      {
+        "location": "t040.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Network"
+        },
+        "dataset": "Test"
+      },
+      {
+        "location": "t041.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Access"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t042.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Access"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t043.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Access"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t044.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Access"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t045.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Access"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t046.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Access"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t047.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Access"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t048.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Access"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t049.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Access"
+        },
+        "dataset": "Test"
+      },
+      {
+        "location": "t050.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Access"
+        },
+        "dataset": "Test"
+      },
+      {
+        "location": "t051.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Software"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t052.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Software"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t053.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Software"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t054.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Software"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t055.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Software"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t056.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Software"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t057.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Software"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t058.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Software"
+        },
+        "dataset": "Train"
+      },
+      {
+        "location": "t059.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Software"
+        },
+        "dataset": "Test"
+      },
+      {
+        "location": "t060.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Software"
+        },
+        "dataset": "Test"
+      }
+    ]
+  }
+}

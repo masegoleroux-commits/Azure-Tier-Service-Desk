@@ -1,0 +1,1 @@
+An email is stuck in my outbox and won't send.

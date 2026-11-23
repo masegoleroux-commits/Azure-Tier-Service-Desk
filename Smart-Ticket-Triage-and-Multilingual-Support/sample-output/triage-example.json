@@ -1,0 +1,14 @@
+{
+  "category": "Email",
+  "confidence": 0.91,
+  "needs_review": false,
+  "sentiment": "negative",
+  "negative_score": 0.64,
+  "suggested_priority": "P3",
+  "pii_found": [
+    "PhoneNumber"
+  ],
+  "redacted_text": "Please help, I can't log in to Outlook. My number is ************.",
+  "original_language": "zu",
+  "processed_at": "2026-11-23T16:20:05"
+}
