@@ -1,0 +1,21 @@
+FirstName,LastName,Department,JobTitle,Manager,Office
+Lerato,Dlamini,Finance,Finance Manager,,Johannesburg
+Thabo,Mokoena,Finance,Accountant,lerato.dlamini,Johannesburg
+Zanele,Mthembu,Finance,Payroll Officer,lerato.dlamini,Johannesburg
+Pieter,van Wyk,Finance,Credit Controller,lerato.dlamini,Pretoria
+Ayesha,Patel,Finance,Financial Analyst,lerato.dlamini,Durban
+Anele,Zulu,Sales,Sales Manager,,Johannesburg
+Sipho,Nkosi,Sales,Sales Representative,anele.zulu,Johannesburg
+Karabo,Molefe,Sales,Sales Representative,anele.zulu,Pretoria
+Megan,Smith,Sales,Account Manager,anele.zulu,Cape Town
+Tshepo,Mabena,Sales,Sales Coordinator,anele.zulu,Johannesburg
+Fatima,Isaacs,Sales,Inside Sales Representative,anele.zulu,Cape Town
+Naledi,Khumalo,IT,IT Manager,,Johannesburg
+Johan,Botha,IT,Service Desk Analyst,naledi.khumalo,Johannesburg
+Lindiwe,Ndlovu,IT,Service Desk Analyst,naledi.khumalo,Johannesburg
+Kagiso,Sithole,IT,Systems Administrator,naledi.khumalo,Pretoria
+Ruan,Pretorius,IT,Network Engineer,naledi.khumalo,Pretoria
+Nomvula,Shabalala,IT,Cloud Engineer,naledi.khumalo,Johannesburg
+Bongani,Cele,IT,Desktop Support Technician,naledi.khumalo,Durban
+Palesa,Mahlangu,IT,Junior Service Desk Analyst,naledi.khumalo,Johannesburg
+Mpho,Radebe,IT,Security Analyst,naledi.khumalo,Johannesburg

@@ -1,0 +1,10 @@
+2026-11-23 10:02:11 | johan.botha | Leaver started | Requested by labadmin
+2026-11-23 10:02:13 | johan.botha | Block Entra ID sign-in | OK
+2026-11-23 10:02:14 | johan.botha | Revoke sign-in sessions | OK
+2026-11-23 10:02:15 | johan.botha | Disable AD account | OK
+2026-11-23 10:02:16 | johan.botha | Remove 2 AD group memberships | OK
+2026-11-23 10:02:16 | johan.botha | Stamp description | OK
+2026-11-23 10:02:17 | johan.botha | Move to Leavers OU | OK
+2026-11-23 10:02:29 | johan.botha | Convert mailbox to shared | OK
+2026-11-23 10:02:31 | johan.botha | Remove 1 licence(s) | OK
+2026-11-23 10:02:31 | johan.botha | Leaver finished | Review log for any FAILED steps
