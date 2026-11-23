@@ -1,0 +1,14 @@
+Computer       : CLIENT01
+OS             : Microsoft Windows Server 2022 Datacenter
+UptimeHours    : 461.3
+FreeDiskGB     : 7.8
+FreeDiskPct    : 6
+FreeMemoryMB   : 1240
+StoppedAutoSvc : gupdate, sppsvc
+LoggedOnUser   : LAB\tshepo.mabena
+RecentErrors   : 07:41 Microsoft-Windows-DistributedCOM: 10016
+
+Flags:
+ - Low disk space: run Clear-DiskSpace.ps1
+ - Not restarted in over 7 days: ask the user to restart
+ - Automatic services stopped: gupdate, sppsvc
