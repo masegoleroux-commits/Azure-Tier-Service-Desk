@@ -1,0 +1,18 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.4",
+  "body": [
+    { "type": "TextBlock", "text": "New ticket from IT Help agent", "weight": "Bolder", "size": "Medium" },
+    {
+      "type": "FactSet",
+      "facts": [
+        { "title": "Reference", "value": "@{variables('TicketRef')}" },
+        { "title": "Name", "value": "@{triggerBody()['UserName']}" },
+        { "title": "Device", "value": "@{triggerBody()['Device']}" },
+        { "title": "Category", "value": "@{triggerBody()['Category']}" }
+      ]
+    },
+    { "type": "TextBlock", "text": "@{triggerBody()['Description']}", "wrap": true }
+  ]
+}
